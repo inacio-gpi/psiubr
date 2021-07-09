@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, JavaScript (React,Jquery), PHP, Sass, Bootstrap, Materialize and UI/UX Design.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, JavaScript (React, Jquery, Vanilla), PHP, MySQL, Sass, Bootstrap, Materialize and UI/UX Design.</strong>
 </p>
 
 <p align="left">
